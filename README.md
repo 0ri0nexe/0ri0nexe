@@ -2,5 +2,5 @@
 - 💾 learned languages :
   - 🐍 Python
   - 🍵 Java
-- 🌱 Currently learning C++
-- 📫 U can contact me at this adress : predator.orion@ootlook.fr or send me a DM directly in discord : Predat0r_300#5017
+- 🦀 Currently learning Rust
+- 📫 You can contact me at this adress : predator.orion@ootlook.fr or send me a DM directly in discord : Predat0r_300#5017
