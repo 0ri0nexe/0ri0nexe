@@ -3,4 +3,4 @@
   - 🐍 Python
   - 🍵 Java
 - 🦀 Currently learning Rust
-- 📫 You can contact me at this adress : predator.orion@ootlook.fr or send me a DM directly in discord : Predat0r_300#5017
+- 📫 You can contact me at this adress : predator.orion@ootlook.fr or send me a DM directly in discord : @orionexe
