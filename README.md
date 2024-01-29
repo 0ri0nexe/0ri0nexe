@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @0ri0nexe
-- 💾 learned languages :
-  - 🐍 Python
-  - 🍵 Java
-- 🦀 Currently learning Rust
-- 📫 You can contact me at this adress : predator.orion@ootlook.fr or send me a DM directly in discord : @orionexe
+- 💾 Working mainly with low level languages (Rust, C++, ...)
+- 📫 You can contact me at this adress : orionexe@outlook.com or send me a DM directly in discord : @orionexe
